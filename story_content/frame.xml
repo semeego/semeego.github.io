@@ -1268,8 +1268,8 @@
       <links>
         <slidelink slideid="_player.6iuiMgVF1A1" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6iuiMgVF1A1.6eHF9tD07YJ" displaytext="widget" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuiMgVF1A1.6HHQXg7ItzX" displaytext="widget" expand="false" type="slide" />
+            <slidelink slideid="_player.6iuiMgVF1A1.6eHF9tD07YJ" displaytext="main" expand="false" type="slide" />
+            <slidelink slideid="_player.6iuiMgVF1A1.6hF3CoXDMmA" displaytext="sales" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
